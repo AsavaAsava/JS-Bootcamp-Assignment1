@@ -1,5 +1,4 @@
 
-
 var inp = document.getElementById('myInput');
 var p = document.getElementById('myP');
 
